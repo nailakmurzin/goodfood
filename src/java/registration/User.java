@@ -8,6 +8,7 @@ package registration;
 import javax.faces.bean.ManagedBean;
 import javax.faces.bean.RequestScoped;
 
+/** Test
 /**
  *
  * @author Nail
